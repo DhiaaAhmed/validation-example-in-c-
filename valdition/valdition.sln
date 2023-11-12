@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valdition", "valdition.csproj", "{0C2A787B-B552-46D2-9D32-516F034FBD8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C2A787B-B552-46D2-9D32-516F034FBD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2A787B-B552-46D2-9D32-516F034FBD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2A787B-B552-46D2-9D32-516F034FBD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2A787B-B552-46D2-9D32-516F034FBD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE7852E-4299-4F0D-806D-01CF8E3FD98F}
+	EndGlobalSection
+EndGlobal

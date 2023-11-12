@@ -1,0 +1,17 @@
+J:\ASPNetV6\ASPNetV6\valdition\bin\Debug\net6.0\valdition.exe
+J:\ASPNetV6\ASPNetV6\valdition\bin\Debug\net6.0\valdition.deps.json
+J:\ASPNetV6\ASPNetV6\valdition\bin\Debug\net6.0\valdition.runtimeconfig.json
+J:\ASPNetV6\ASPNetV6\valdition\bin\Debug\net6.0\valdition.dll
+J:\ASPNetV6\ASPNetV6\valdition\bin\Debug\net6.0\ref\valdition.dll
+J:\ASPNetV6\ASPNetV6\valdition\bin\Debug\net6.0\valdition.pdb
+J:\ASPNetV6\ASPNetV6\valdition\bin\Debug\net6.0\FluentValidation.dll
+J:\ASPNetV6\ASPNetV6\valdition\obj\Debug\net6.0\valdition.csproj.AssemblyReference.cache
+J:\ASPNetV6\ASPNetV6\valdition\obj\Debug\net6.0\valdition.GeneratedMSBuildEditorConfig.editorconfig
+J:\ASPNetV6\ASPNetV6\valdition\obj\Debug\net6.0\valdition.AssemblyInfoInputs.cache
+J:\ASPNetV6\ASPNetV6\valdition\obj\Debug\net6.0\valdition.AssemblyInfo.cs
+J:\ASPNetV6\ASPNetV6\valdition\obj\Debug\net6.0\valdition.csproj.CoreCompileInputs.cache
+J:\ASPNetV6\ASPNetV6\valdition\obj\Debug\net6.0\valdition.csproj.CopyComplete
+J:\ASPNetV6\ASPNetV6\valdition\obj\Debug\net6.0\valdition.dll
+J:\ASPNetV6\ASPNetV6\valdition\obj\Debug\net6.0\ref\valdition.dll
+J:\ASPNetV6\ASPNetV6\valdition\obj\Debug\net6.0\valdition.pdb
+J:\ASPNetV6\ASPNetV6\valdition\obj\Debug\net6.0\valdition.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tMmegdp9B8Mvkg5ZYxjKI/te6cNU2GbEB2GMpostFog0jW63+i4N5o1LyeZuapICbK/7Ym6EmgSSUzBQ7ZSh8w==",
+  "success": true,
+  "projectFilePath": "J:\\ASPNetV6\\ASPNetV6\\valdition\\valdition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
